@@ -19,6 +19,8 @@
 | Brandon Aiyuk       |  SF   |    WR    |   1    |   2   |  107  |  123   |   144   |     63      | -12.6 |   8   | 6.43  |
 | Melvin Gordon III   |  Den  |    RB    |   1    |   2   |  118  |  133   |   154   |     27      | -14.9 |   9   | 8.05  |
 | Dallas Goedert      |  Phi  |    TE    |   1    |   2   | 99.3  |  115   |   127   |     14      | 32.5  |   5   |  9.2  |
+| Mike Evans          |  TB   |    WR    |   1    |   2   |  164  |  181   |   197   |     18      | 45.3  |   4   |       |
+| Saquon Barkley      |  NYG  |    RB    |   1    |   2   |  188  |  205   |   235   |     28      | 57.7  |   5   |       |
 
 ---
 
